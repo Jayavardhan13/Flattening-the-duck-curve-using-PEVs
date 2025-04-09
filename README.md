@@ -46,5 +46,5 @@ The entire optimization pipeline has been deployed in a **Streamlit interface**,
 - Visualization of Duck Curve before and after load shaping
 - Easy switching between algorithms (GA / ISGM)
 
-## 📁 Project Structure
+
 
