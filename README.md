@@ -1,8 +1,5 @@
 # 🔋 Electric Vehicle Charging for Managing the Duck Curve
 
-## 📅 Duration: Jan 2025 – Present  
-**Under the guidance of:** Dr. Ranjana Sodhi, Professor, Department of Electrical Engineering, IIT Ropar
-
 ## 🧠 Project Overview
 This project aims to tackle the infamous *California Duck Curve* — a grid imbalance caused by high midday solar generation and steep evening ramp-ups in demand — using intelligent scheduling of Electric Vehicle (EV) charging and discharging via Vehicle-to-Grid (V2G) technology.
 
